@@ -1,0 +1,11 @@
+crewai 
+langchain 
+langchain-community 
+langchain-groq 
+langchain-huggingface
+faiss-cpu 
+sentence-transformers
+flask 
+streamlit
+requests
+pydantic
